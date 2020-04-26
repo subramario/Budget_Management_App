@@ -1,0 +1,30 @@
+image: node:latest
+
+stages:
+  - build
+  - test
+
+cache:
+  paths:
+    - node_modules/
+
+install_dependencies:
+  stage: build
+  tags: 
+    - pi
+  script:
+    - npm ci
+  artifacts:
+    paths:
+      - node_modules/
+
+testing_testing:
+  stage: test
+  tags:
+    - pi
+  script: 
+    - npm test -- --coverage
+  artifacts:
+    paths:
+      - coverage/
+  coverage: /All\sfiles.*?\s+(\d+.\d+)/

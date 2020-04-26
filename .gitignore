@@ -1,0 +1,17 @@
+# Virtual environment ignore.
+##############################
+# env/ # Use to track environment across machines
+
+# Emacs backup files
+##############################
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+.\#*
+
+# NPM Packages
+##############################
+node_modules/
+package-lock.json
