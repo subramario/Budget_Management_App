@@ -26,24 +26,28 @@ export default function RecentPurchases(props) {
         </TableHeader>
         <TableBody displayRowCheckbox={false}>
           <TableRow>
-            <TableRowColumn>Purchase 1.</TableRowColumn>
-            <TableRowColumn>Purchase 1 amount.</TableRowColumn>
+            <TableRowColumn>Wilson Evolution Basketball</TableRowColumn>
+            <TableRowColumn>$52.49</TableRowColumn>
           </TableRow>
           <TableRow>
-            <TableRowColumn>Purchase 2.</TableRowColumn>
-            <TableRowColumn>Purchase 2 amount.</TableRowColumn>
+            <TableRowColumn>"Meditations" by Marcus Aurelius</TableRowColumn>
+            <TableRowColumn>$14.99</TableRowColumn>
           </TableRow>
           <TableRow>
-            <TableRowColumn>Purchase 3.</TableRowColumn>
-            <TableRowColumn>Purchase 3 amount.</TableRowColumn>
+            <TableRowColumn>Acoustic Guitar</TableRowColumn>
+            <TableRowColumn>$239.99</TableRowColumn>
           </TableRow>
           <TableRow>
-            <TableRowColumn>Purchase 4.</TableRowColumn>
-            <TableRowColumn>Purchase 4 amount.</TableRowColumn>
+            <TableRowColumn>Record Player</TableRowColumn>
+            <TableRowColumn>$135.69.</TableRowColumn>
           </TableRow>
           <TableRow>
-            <TableRowColumn>Purchase 5.</TableRowColumn>
-            <TableRowColumn>Purchase 5 amount.</TableRowColumn>
+            <TableRowColumn>Takeout Food</TableRowColumn>
+            <TableRowColumn>$18.99</TableRowColumn>
+          </TableRow>
+          <TableRow>
+            <TableRowColumn>Monthly Gym Membership</TableRowColumn>
+            <TableRowColumn>$10.99</TableRowColumn>
           </TableRow>
         </TableBody>
       </Table>
