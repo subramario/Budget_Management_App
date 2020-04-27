@@ -1,5 +1,5 @@
 import React from 'react';
-import './Reset.css';
+import '../styling/Reset.css';
 import logo from './BAM.png';
 import firebase from '../components/firebaseConfig';
 import Alert from './Alert';

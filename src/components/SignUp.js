@@ -1,5 +1,5 @@
 import React from 'react';
-import './SignUp.css';
+import '../styling/SignUp.css';
 import logo from './BAM.png';
 import firebase from '../components/firebaseConfig';
 import Alert from './Alert';

@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Dashboard from './dashboard';
 import Banking from './banking';
-// import Reset from '.reset';
 import Main from './Mainpage';
 import Budget from './budget_info';
 import Snapshot from './snapshot';

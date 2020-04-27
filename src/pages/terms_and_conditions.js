@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import AppBar from '../components/NavBar';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import './terms.css'
+import '../styling/terms.css'
 
 export class terms_and_conditions extends Component {
   render() {

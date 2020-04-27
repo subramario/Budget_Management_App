@@ -7,7 +7,6 @@ import {
   TableRow,
   TableRowColumn,
 } from 'material-ui/Table';
-import Center from 'react-center';
 
 export default function RecentPurchases(props) {
   return (

@@ -7,7 +7,6 @@ import {
   TableRow,
   TableRowColumn,
 } from 'material-ui/Table';
-
 import TextField from 'material-ui/TextField';
 import RaisedButton from 'material-ui/RaisedButton';
 import { blue500, white, black } from 'material-ui/styles/colors';

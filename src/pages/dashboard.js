@@ -2,11 +2,10 @@ import React from 'react';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import StackedBarChart from '../components/plots';
 import NavigationBar from '../components/NavBar';
-import './dashboard.css';
+import '../styling/dashboard.css';
 import HighLevelSummary from '../components/Dashboard_HighLevelSummary';
 import RecentPurchases from '../components/Dashboard_RecentPurchases';
 import SavingsContainer from '../components/Dashboard_SavingsContainer';
-import Center from 'react-center';
 
 class DashboardPage extends React.Component {
   render() {

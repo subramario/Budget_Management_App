@@ -5,7 +5,6 @@ import Login from '../components/Login';
 import Reset from '../components/Reset';
 import UserForm from './userform';
 import Existing from './existinguser';
-import Dashboard from './dashboard';
 
 class Mainpage extends React.Component {
   constructor(props) {
