@@ -8,7 +8,7 @@ Traditional login page, fitted with error handling
 Introducing the Dashboard - the most aesthetic part of this app
 
 ## Compound Interest Forecasting
-![](Demo/Compound_Interest_Forecasting.gif)
+![](Demo/Compound_Interest_Forecasting.gif)  
 If you can visualize it, you can achieve it
 
 ## UI Animations
