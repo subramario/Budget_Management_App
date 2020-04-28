@@ -1,4 +1,5 @@
 # Budget Allocation Management
+Developed a full-stack budgeting application using: React, Firebase, Material-UI, CSS, NPM.
 
 ## Demonstrations 
 [Additional Demonstrations](DEMO.md)
