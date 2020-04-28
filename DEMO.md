@@ -19,4 +19,4 @@ Some cheesy humor never hurt anyone
 ![](Demo/Navigation.gif)
 The "Terms and Conditions" page makes every app legit
   
-  [Pretty sweet right? Wanna give it a whirl? Return to README.md for installation instructions!](README.md)
+  [Pretty sweet right? Wanna give it a whirl? Return to the README file for installation instructions!](README.md)
