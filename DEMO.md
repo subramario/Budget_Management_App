@@ -1,7 +1,9 @@
 # Demonstrations
+  ## Main
+  ![](Demo/Main.gif)
 
   ## Login
-  ![](Demo/Login.gif)
+  ![](Demo/Main_Dash.gif)
 
   ## Compound Interest Forecasting
   ![](Demo/Compound_Interest_Forecasting.gif)
