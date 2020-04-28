@@ -1,9 +1,6 @@
 # Budget Allocation Management
 
 ## Demonstrations 
-  ### Main Page
-  ![](Demo/Main.gif)
-  
   ### Login
   ![](Demo/Main_Dash.gif)
   
