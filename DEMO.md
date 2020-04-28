@@ -3,17 +3,17 @@
 ![](Demo/Main.gif)
 Traditional login page, fitted with error handling
 
-## Login
+## Dashboard
 ![](Demo/Main_Dash.gif)
 Introducing the Dashboard - the most aesthetic part of this app
 
 ## Compound Interest Forecasting
 ![](Demo/Compound_Interest_Forecasting.gif)  
-If you can visualize it, you can achieve it
+If you can visualize it, you can achieve it!
 
 ## UI Animations
 ![](Demo/Animations.gif)
-Some cheesy humor to lighten the mood
+Some cheesy humor never hurt anyone
 
 ## Navigation
 ![](Demo/Navigation.gif)
