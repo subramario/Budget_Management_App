@@ -5,10 +5,23 @@
 
   ## Login
   ![](Demo/Main_Dash.gif)
-  The most aesthetic part of this app
+  Introducing the Dashboard - the most aesthetic part of this app
 
   ## Compound Interest Forecasting
   ![](Demo/Compound_Interest_Forecasting.gif)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   If you can visualize it, you can achieve it
   
   ## UI Animations
