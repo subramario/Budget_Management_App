@@ -2,8 +2,12 @@
 
 ## Demonstrations 
 [Additional Demonstrations](DEMO.md)
-  ### Login
+  ### Dashboard
   ![](Demo/Main_Dash.gif)
+  
+  ### Navigation
+  ![](Demo/Navigation.gif)
+
   
 
 
