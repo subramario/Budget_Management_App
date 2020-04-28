@@ -13,3 +13,5 @@
   
   ## Navigation
   ![](Demo/Navigation.gif)
+  
+  [Pretty sweet right? Wanna give it a whirl? Return to README.md for installation instructions!](DEMO.md)
